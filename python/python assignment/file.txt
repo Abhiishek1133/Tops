@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+apple
+banana
+cherry
+=======
+apple
+banana
+cherry
+>>>>>>> 158d43e9b5f37fc1bf238f6e5397d808200209f6
